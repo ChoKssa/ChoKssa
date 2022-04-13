@@ -36,12 +36,12 @@
 
 ## Contact me:
 
-[<img width="30px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1649880867~hmac=e703843301ca18678ba1c0e5cfc53825">](https://www.linkedin.com/in/alexandre-cathalifaud/)
+[<img width="30px" src="icons/linkedin.png">](https://www.linkedin.com/in/alexandre-cathalifaud/)
 &nbsp;&nbsp;
-[<img width="30px" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png">](https://www.instagram.com/alex1093100)
+[<img width="30px" src="icons/instagram.png">](https://www.instagram.com/alex1093100)
 &nbsp;&nbsp;
-[<img width="30px" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670211.png?token=exp=1649881274~hmac=002fc0536f9fb82d4a65a76c6acfa45f">](https://twitter.com/ChoKssa)
+[<img width="30px" src="icons/twitter.png">](https://twitter.com/ChoKssa)
 &nbsp;&nbsp; 
-[<img width="30px" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670157.png?token=exp=1649883033~hmac=8eeb739e21306871502ced3e0416d3b2">](https://discordapp.com/users/578652910640955422/)<br>
+[<img width="30px" src="icons/discorde.png">](https://discordapp.com/users/578652910640955422/)<br>
 ``` alexandre.cathalifaud@epitech.eu ```
 
