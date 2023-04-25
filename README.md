@@ -3,7 +3,7 @@
 <br>
 
 ## About me:
-- 📌 Lives in Paris
+- 📌 Live in Paris
 - 🏫 Study at EPITECH Paris
 - 🔎 In search of learning !
 
